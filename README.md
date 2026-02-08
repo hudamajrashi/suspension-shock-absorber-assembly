@@ -57,5 +57,9 @@ The full CAD model and assembly can be viewed on Onshape using the link below:
 
 ---
 
+## Modeling and Assembly Summary
 
-This project was completed for learning purposes and can be improved further by adding motion simulation or integrating it into a larger system.
+The project includes a rod and base, compression spring, threaded body, and a gear component.  
+Each part was modeled separately using **sketch, extrude, helix, sweep, revolve, fillet, and chamfer** tools.
+
+All parts were then assembled in Onshape using **Fastened, Cylindrical, Screw, Linear, and Slider mates** to keep the components aligned and allow vertical suspension movement.
