@@ -32,17 +32,17 @@ Each part was modeled separately and then assembled to check fit and alignment.
 
 ## Design Preview
 
-### Rod and Base Component
-![Top Rod](images/top_rod.png)
+### base
+![Base](images/base.png)
 
-### Compression Spring
+### Top Rod
+![Top_Rod](images/top_rod.png)
+
+### Spring
 ![Spring](images/spring.png)
 
 ### Gear / Nut Component
-![Gear / Nut](images/base-nut-top.png)
-
-### Threaded Body
-![Base](images/base.png)
+![Gear / Nut](images/nut.png)
 
 ### Full Assembly
 ![Full Assembly](images/whole_assembly.png)
