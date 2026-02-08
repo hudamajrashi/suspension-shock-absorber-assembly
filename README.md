@@ -15,16 +15,12 @@ This project focuses more on understanding the structure and assembly process ra
 ## Components Used
 
 - **the base**  
-  Acts as the main support for the assembly and guides the movement.
 
 - **Spring**  
-  Allows the system to compress and absorb movement.
 
-- **top rod**  
-  Holds the spring in place and allows adjustment.
+- **Top Rod**  
 
-- **nut**  
-  Used to lock or control the position of the assembly.
+- **Nut**  
 
 Each part was modeled separately and then assembled to check fit and alignment.
 
@@ -32,7 +28,7 @@ Each part was modeled separately and then assembled to check fit and alignment.
 
 ## Design Preview
 
-### base
+### Base
 ![Base](images/base.png)
 
 ### Top Rod
